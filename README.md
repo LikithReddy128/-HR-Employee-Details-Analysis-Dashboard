@@ -4,7 +4,7 @@ An end-to-end Power BI project that analyzes a 183-employee HR dataset across In
 
 ![Power BI](https://github.com/LikithReddy128/-HR-Employee-Details-Analysis-Dashboard/blob/main/Hr%20Employee%20Details%20Analysis.pbix)
 ![Excel](https://github.com/LikithReddy128/-HR-Employee-Details-Analysis-Dashboard/blob/main/hr-data.xlsx)
-![DAX](https://github.com/LikithReddy128/-HR-Employee-Details-Analysis-Dashboard/blob/main/Table%20and%20Measures.jpeg)
+
 
 ---
 ![Power BI](https://github.com/LikithReddy128/-HR-Employee-Details-Analysis-Dashboard/blob/main/Hr%20Employee%20Details%20Analysis.png)
@@ -261,4 +261,6 @@ For reference/reproducibility, here is the exact workflow used to publish this p
 ---
 
 ## Author
-Maintained as part of an HR analytics portfolio project. Feel free to fork this repository and adapt the model/measures to your own HR dataset.
+** P.Likith Reddy ** Data Analyst | Excel · Data Visualization · Business Analysis 📧 
+likithreddy344@gmail.com 
+🔗 LinkedIn: [https://www.linkedin.com/in/pakinati-likith-reddy-b88252335/] 🔗 GitHub: [https://github.com/LikithReddy128] • Portfolio
