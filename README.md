@@ -7,7 +7,7 @@ An end-to-end Power BI project that analyzes a 183-employee HR dataset across In
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=for-the-badge)
 
 ---
-![Power BI](https://github.com/LikithReddy128/-HR-Employee-Details-Analysis-Dashboard/blob/main/Hr%20Employee%20Details%20Analysis.pbix)
+![Power BI](https://github.com/LikithReddy128/-HR-Employee-Details-Analysis-Dashboard/blob/main/Hr%20Employee%20Details%20Analysis.png)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
