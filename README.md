@@ -72,7 +72,7 @@ HR-Employee-Details-Dashboard/
 
 | Property | Detail |
 |---|---|
-| File | `hr-data.xlsx` |
+| File |  [hr-data.xlsx](https://github.com/LikithReddy128/-HR-Employee-Details-Analysis-Dashboard/blob/main/hr-data.xlsx) |
 | Rows | 183 employees |
 | Columns | `Name`, `Gender`, `Age`, `Rating`, `Date Joined`, `Department`, `Salary`, `Country` |
 | Countries | India (`IND`), New Zealand (`NZ`) |
