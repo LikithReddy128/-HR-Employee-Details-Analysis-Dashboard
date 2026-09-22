@@ -226,7 +226,7 @@ For reference/reproducibility, here is the exact workflow used to publish this p
    # copy a dashboard screenshot into screenshots/
    ```
 
-4. **Add the README and Documentation files** (this file, and `Documentation.md`) to the repository root.
+4. **Add the README and Documentation files** this file, and `[Documentation.md](https://github.com/LikithReddy128/-HR-Employee-Details-Analysis-Dashboard/blob/main/Documentation%20(1).md) to the repository root.
 
 5. **Stage, commit, and push**
    ```bash
